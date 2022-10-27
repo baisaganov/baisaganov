@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![Telegram](https://pngset.com/images/telegram-logo-vector-telegram-logo-vector-number-symbol-text-sign-transparent-png-2285536.png)](https://t.me/aliw39s) 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/aliw39s) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/baisaganov#4300) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliw420) 
 
 # 💻 Tech Stack:
