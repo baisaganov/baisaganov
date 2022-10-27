@@ -1,15 +1,15 @@
 # 💫 About Me:
 🔭 I’m want to become a Java backend developer<br>
 🌱 I’m currently learning Java (Spring Framework)<br>
-⚡ Have skill in: 
-☕️ Java — Spring Core, Spting MVC, JDBC API;
-🐍 Python — Selenium, Pandas, Numpy;
-📚 SQL — Postgres & MySQL;
-🕊 Swift 5 — UIKit.
+⚡ Have skill in: <br>
+☕️ Java — Spring Core, Spting MVC, JDBC API;<br>
+🐍 Python — Selenium, Pandas, Numpy;<br>
+📚 SQL — Postgres & MySQL;<br>
+🕊 Swift 5 — UIKit.<br>
 
 
 ## 🌐 Socials:
-[![Telegram](https://telegram.org/img/website_icon.svg)](https://tg.me/aliw39s) 
+[![Telegram](https://pngset.com/images/telegram-logo-vector-telegram-logo-vector-number-symbol-text-sign-transparent-png-2285536.png)](https://t.me/aliw39s) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/baisaganov#4300) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliw420) 
 
 # 💻 Tech Stack:
