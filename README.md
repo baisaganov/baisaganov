@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m want to become a Java backend developer<br>
 🌱 I’m currently learning Java (Spring Framework)<br>
-⚡ Have skill in: <br>
+⚡ Have skills in: <br>
 ☕️ Java — Spring Core, Spting MVC, JDBC API;<br>
 🐍 Python — Selenium, Pandas, Numpy;<br>
 📚 SQL — Postgres & MySQL;<br>
