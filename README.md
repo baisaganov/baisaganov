@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 I’m want to become a Java backend developer<br>
-🌱 I’m currently learning Java (Spring Framework)<br>
+🔭 QA Manual/Auto tester<br>
+🌱 I’m currently learning Solidity<br>
 ⚡ Have skills in: <br>
-☕️ Java — Spring Core, Spting MVC, JDBC API;<br>
+☕️ Java — Spring Core, Spting MVC, Spring Boot, JDBC API;<br>
 🐍 Python — Selenium, Playwright, Pandas, Numpy;<br>
-📚 SQL — Postgres & MySQL;<br>
-🕊 Swift 5 — UIKit.<br>
+📚 SQL — Postgres, MySQL, Oracle, PL/SQL;<br>
+🕊 Small knowledge in Front dev.<br>
 
 
 ## 🌐 Socials:
