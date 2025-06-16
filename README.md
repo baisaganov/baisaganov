@@ -3,7 +3,7 @@
 🌱 I’m currently learning Java (Spring Framework)<br>
 ⚡ Have skills in: <br>
 ☕️ Java — Spring Core, Spting MVC, JDBC API;<br>
-🐍 Python — Selenium, Pandas, Numpy;<br>
+🐍 Python — Selenium, Playwright, Pandas, Numpy;<br>
 📚 SQL — Postgres & MySQL;<br>
 🕊 Swift 5 — UIKit.<br>
 
