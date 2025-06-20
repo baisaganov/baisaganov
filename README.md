@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 QA Manual/Auto tester<br>
+🔭 QA Manual/Auto<br>
 🌱 I’m currently learning Solidity<br>
 ⚡ Have skills in: <br>
 ☕️ Java — Spring Core, Spting MVC, Spring Boot, JDBC API;<br>
